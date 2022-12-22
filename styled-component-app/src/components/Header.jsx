@@ -9,6 +9,7 @@ const Header = () => {
         <li>Home</li>
         <li>Sobre</li>
         <li>Contato</li>
+        <li>Item VSCode</li>
       </nav>
     </StyledHeader>
   );
